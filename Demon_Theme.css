@@ -2,9 +2,49 @@
 
 /*Main CSS*/
 
-	#bodyBox {
-		width:50px;
-		height:50px;
-		border:2px #fff solid;
+	#Alpha {
+		width:450px;
+		height:550px;
+		border-top:5px #fff solid;
+		border-bottom:5px #fff solid;
 		text-align:center;
 	}
+	
+	#Bravo {
+		width:350px;
+		height:150px;
+		border-bottom:3px #fff solid;
+		text-align:center;
+	}
+
+	#Chalie {
+		height:200px;
+		text-align:center;
+	}
+	
+	#Delta {
+		width:350px;
+		height:150px;
+		border-top:3px #fff solid;
+		text-align:center;
+	}
+	
+	.papa {
+		border-radius:30px;
+		width:100px;
+		height:100px;
+		overflow:hidden;
+	}
+	
+	.t1-1 {
+		color:#e37777;
+	}
+	
+	.t1-2 {
+		color:#e3df77;
+	}
+	
+	.t1-3 {
+		color:#e277e3;
+	}
+	
