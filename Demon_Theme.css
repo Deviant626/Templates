@@ -2,7 +2,7 @@
 
 /*Main CSS*/
 
-	#Alpha {
+	#alpha {
 		width:450px;
 		height:550px;
 		border-top:5px #fff solid;
@@ -10,19 +10,19 @@
 		text-align:center;
 	}
 	
-	#Bravo {
+	#bravo {
 		width:350px;
 		height:150px;
 		border-bottom:3px #fff solid;
 		text-align:center;
 	}
 
-	#Chalie {
+	#chalie {
 		height:200px;
 		text-align:center;
 	}
 	
-	#Delta {
+	#delta {
 		width:350px;
 		height:150px;
 		border-top:3px #fff solid;
