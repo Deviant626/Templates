@@ -9,7 +9,7 @@
 	
 	
 	/*Main Classes*/
-	.coreBox {
+	#coreBox {
 		width:500px;
 		height:500px;
 		border:2px #fff solid;
