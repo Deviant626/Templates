@@ -5,15 +5,15 @@
 	#alpha {
 		width:450px;
 		height:550px;
-		border-top:5px #fff solid;
-		border-bottom:5px #fff solid;
+		border-top:5px #ffffff solid;
+		border-bottom:5px #ffffff solid;
 		text-align:center;
 	}
 	
 	#bravo {
 		width:350px;
 		height:150px;
-		border-bottom:3px #fff solid;
+		border-bottom:3px #ffffff solid;
 		text-align:center;
 	}
 
@@ -25,7 +25,7 @@
 	#delta {
 		width:350px;
 		height:150px;
-		border-top:3px #fff solid;
+		border-top:3px #ffffff solid;
 		text-align:center;
 	}
 	
